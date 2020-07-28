@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.-->
-<div align="center">
-	<br>
-	<a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
-		<img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true" width="800" height="400">
-	</a>
-	<br>
-</div>
+<br>
+<a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
+  <img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true">
+</a>
+<br>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
