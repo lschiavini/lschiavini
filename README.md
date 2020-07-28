@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
-
-
 <p style="width:100%;padding-bottom:100%;position:relative;">
    <a><img src="https://media.giphy.com/media/9J5bKYitolcHuER9rl/giphy.gif"/></a>
 </p>
 
+# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
@@ -57,13 +54,9 @@ Here are some ideas to get you started:
 <br>
 
 
-
-Find me in other social media :)
-<br>
 <hr>
-<p style="width:100%;padding-bottom:100%;position:relative;">
-   <a><img src="https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif"/></a>
-   
+Find me in other social media :)
+
 <p>
 <a href="https://www.linkedin.com/in/lucas-schiavini/">
   <img align="left" alt="Lucas Schiavini's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />
@@ -75,6 +68,12 @@ Find me in other social media :)
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
+
+<br>
+<hr>
+
+<p style="width:100%;padding-bottom:100%;position:relative;">
+   <a><img src="https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif"/></a>
 </p>
 
 <!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
