@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
   <img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true">
 </a>
-<h2 style="color: #08ff4a">DEV</h2>
+<!--<h2 style="color: #08ff4a">DEV</h2> -->
+
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
