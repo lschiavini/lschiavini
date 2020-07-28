@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 400" width="800" height="400">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+<div class="output-sizer">
+<div id="result_div" class="result"><iframe id="iFrameKey-f0ea7f74-b377-058c-726f-471979f21ab2" src="https://cdpn.io/boomboom/v2/index.html?key=iFrameKey-f0ea7f74-b377-058c-726f-471979f21ab2" name="CodePen" allowfullscreen="true" sandbox="allow-downloads allow-forms allow-modals allow-pointer-lock allow-popups allow-presentation allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; microphone; midi; payment; vr" allowtransparency="true" allowpaymentrequest="true" class="result-iframe"></iframe>
+
+<div id="editor-drag-cover" class="drag-cover" style="display: none;"></div>
+</div>
+<div id="box-console" class="box box-console">
+<div class="editor-resizer editor-resizer-console" title="Drag to resize. Double-click to expand."></div>
+<div class="powers">
+<div class="powers-drag-handle" title="Drag to resize. Double-click to expand."></div>
+<div class="editor-actions-left">
+<h2 class="box-title"><span class="box-title-name">Console</span></h2>
+</div>
+<div class="editor-actions-right">
+<button class="button button-medium mini-button console-clear-button" title="Clear">
+Clear
+</button>
+<button class="button button-medium mini-button close-editor-button" data-type="console" title="Close">
+<svg class="icon-x">
+<use xlink:href="/svg_sprite?v=20ea15c6#x"></use>
+</svg>
+</button>
+</div>
+</div>
+<div class="console-wrap">
+<div class="console-entries short-no-scroll"></div>
+<div class="console-command-line">
+<span class="console-arrow forwards"></span>
+<textarea class="console-command-line-input auto-expand" rows="1" data-min-rows="1"></textarea>
+</div>
+</div>
+</div>
+</div>
+		</div>
+	</foreignObject>
+</svg>
