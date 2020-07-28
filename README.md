@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<br>
 	<a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
-		<img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true" width="800" height="400">
+		<img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true" width="800" height="800">
 	</a>
 	<br>
 </div>
