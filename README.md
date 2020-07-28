@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
 
-<p>
+
+<p style="width:100%;padding-bottom:100%;position:relative; align-items:center">
    <a><img src="https://media.giphy.com/media/9J5bKYitolcHuER9rl/giphy.gif"/></a>
 </p>
 
@@ -55,11 +56,9 @@ Here are some ideas to get you started:
 
 <br>
 
- <a href="https://gfycat.com/braveoptimalbaleenwhale-nils-lindback-synthwave"></a>
-
-<!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
 
 
+Find me in other social media :)
 <p>
 <a href="https://www.linkedin.com/in/lucas-schiavini/">
   <img align="left" alt="Lucas Schiavini's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />
@@ -71,3 +70,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
+
+
+![](https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif)()
+<!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
