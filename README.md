@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
-<a href="https://gfycat.com/baggyzealousastrangiacoral"></a>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9J5bKYitolcHuER9rl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vhs-vaporwave-retrowave-9J5bKYitolcHuER9rl">via GIPHY</a></p>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
@@ -40,6 +41,8 @@ Here are some ideas to get you started:
 
 * Front End Development: ReactJS, React-Native, HTML5, CSS3
 * Robotics Development: C++, Altium, Esp32, Arduino, RaspberryPi3
+* Design: Adobe Photoshop, Illustrator, InDesign, AdobeXD
+* Video Editing: Adobe Premiere, After Effects
 * Interested in Data Science
 * One and Off Blogger
 
