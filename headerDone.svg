@@ -68,7 +68,7 @@
           height: 100%;
       }
 
-      <!-- .glitch {
+      .glitch {
         position: relative;
         color: white;
         font-size: 4em;
@@ -101,7 +101,7 @@
           text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
           animation: glitch-anim2 1s infinite linear alternate-reverse;
         }
-      } -->
+      }
 
       /* Creates an animation with 20 steaps. For each step, it calculates 
       a percentage for the specific step. It then generates a random clip
