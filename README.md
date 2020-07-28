@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9J5bKYitolcHuER9rl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vhs-vaporwave-retrowave-9J5bKYitolcHuER9rl">via GIPHY</a></p>
+<p style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9J5bKYitolcHuER9rl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p><a href="https://giphy.com/gifs/vhs-vaporwave-retrowave-9J5bKYitolcHuER9rl">via GIPHY</a></p>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
    <a><img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/></a>
    <a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
    <a><img src="https://img.icons8.com/nolan/64/js.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/html-5.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+   <a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
+   <a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
 </p>
 <a>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
