@@ -24,7 +24,7 @@ html, body, h1 {
 	justify-content: center;
 	align-items: center;
 	background: linear-gradient(rgba(10,10,10,.6),rgba(0,0,0,.9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px),
-		url('https://media.giphy.com/media/3oEduOOq2VZhvNfZ6w/source.gif');
+		url('https://images.pexels.com/photos/1010496/pexels-photo-1010496.jpeg?cs=srgb&dl=close-up-shot-of-black-computer-keyboard-1010496.jpg&fm=jpg');
 	background-size: cover;
 	background-position: center;
 	z-index: 1;
