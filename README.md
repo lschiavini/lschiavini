@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
+<a href="https://gfycat.com/baggyzealousastrangiacoral"></a>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
 </a>
 
-![](https://user-stats.vercel.app/api?username=lucaschiavini&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark)
+![](https://user-stats.vercel.app/api?username=lschiavini&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark)
 
 <p>
    <a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
@@ -48,36 +49,19 @@ Here are some ideas to get you started:
 
 <br>
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BraveOptimalBaleenwhale' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/braveoptimalbaleenwhale-nils-lindback-synthwave">via Gfycat</a></p>
+ <a href="https://gfycat.com/braveoptimalbaleenwhale-nils-lindback-synthwave"></a>
 
 <!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
 
 
 <p>
-
 <a href="https://www.linkedin.com/in/lucas-schiavini/">
   <img align="left" alt="Lucas Schiavini's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />
 </a>
 <a href="https://www.behance.net/schiavinidesign">
-  <img align="left" alt="Lucas Schiavini's Behance" width="22px" <img src="https://img.icons8.com/nolan/64/art-prices.png"/> />
+  <img align="left" alt="Lucas Schiavini's Behance" width="22px" <img src="https://img.icons8.com/nolan/64/art-prices.png"/>
 </a>
 <a href="https:skiraindustries.com">
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
-
-
-<!--
-**anushkrishnav/anushkrishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
