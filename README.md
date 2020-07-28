@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.-->
-<br>
+<h1 style="color: #ff2cff">Lucas Schiavini</h1>
+<h2 style="color: #08ff4a">DEV</h2>
+<!-- <br>
 <a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
   <img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true">
 </a>
-<br>
+<br> -->
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
