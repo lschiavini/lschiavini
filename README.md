@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
 
-<p style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9J5bKYitolcHuER9rl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p><a href="https://giphy.com/gifs/vhs-vaporwave-retrowave-9J5bKYitolcHuER9rl">via GIPHY</a></p>
+<p>
+   <a><img src="https://media.giphy.com/media/9J5bKYitolcHuER9rl/giphy.gif"/></a>
+</p>
+
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
