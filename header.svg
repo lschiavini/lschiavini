@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 300" width="800" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 150" width="800" height="100">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 h1 {
-  font-size: 72px;
+  <!-- font-size: 72px; -->
   background: -webkit-linear-gradient(#ee05ee,#05dcee,#ee05ee, #05dcee);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
