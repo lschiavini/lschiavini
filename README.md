@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
 
 
-<p style="width:100%;padding-bottom:100%;position:relative; align-items:center">
+<p style="width:100%;padding-bottom:100%;position:relative; align-items:center; align-self:center; text-align:center">
    <a><img src="https://media.giphy.com/media/9J5bKYitolcHuER9rl/giphy.gif"/></a>
 </p>
 
@@ -70,7 +70,9 @@ Find me in other social media :)
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
-
-
-![](https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif)()
+<br>
+<hr>
+<p style="width:100%;padding-bottom:100%;position:relative; align-items:center; align-self:center; text-align:center">
+![](https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif)
+</p>
 <!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
