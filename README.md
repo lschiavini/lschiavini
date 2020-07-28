@@ -64,7 +64,7 @@ Find me in other social media :)
 <a href="https://www.behance.net/schiavinidesign">
   <img align="left" alt="Lucas Schiavini's Behance" width="22px" <img src="https://img.icons8.com/nolan/64/art-prices.png"/>
 </a>
-<a href="https:skiraindustries.com">
+<a href="https://skiraindustries.com">
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
