@@ -1,3 +1,4 @@
+
 <!--
 **lschiavini/lschiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +15,7 @@ Here are some ideas to get you started:
 -->
 
 </style>
-<h1 style="font-size: 80px;
-  color: #fff;
-  text-align: center;
-  -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;">I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.</h1>
+<h1 data-text="black mirror">I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.</h1>
 <!--# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.-->
 
 <a>
