@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="color: #ff2cff">Lucas Schiavini</h1>
-<h2 style="color: #08ff4a">DEV</h2>
-<!-- <br>
+<!-- <h1 style="color: #ff2cff">Lucas Schiavini</h1> -->
+
 <a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
   <img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true">
 </a>
-<br> -->
+<h2 style="color: #08ff4a">DEV</h2>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
