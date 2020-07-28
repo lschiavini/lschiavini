@@ -1,4 +1,3 @@
-
 <!--
 **lschiavini/lschiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</style>
-<h1 data-text="black mirror">I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.</h1>
 <!--# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.-->
+<div align="center">
+	<br>
+	<a href="https://github.com/lschiavini/lschiavini/master/header.svg">
+		<img src="https://github.com/lschiavini/lschiavini/master/header.svg?sanitize=true" width="800" height="400">
+	</a>
+	<br>
+</div>
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
