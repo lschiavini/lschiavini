@@ -2,121 +2,140 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				/** code by webdevtrick ( https://webdevtrick.com ) **/
-    @font-face {
-        font-family: 'neontubes';
-        src: url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.eot");
-        src: url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.eot?#iefix") format("embedded-opentype"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.woff2") format("woff2"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.woff") format("woff"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.ttf") format("truetype");
-        font-weight: normal;
-        font-style: normal;
-      }
-      body {
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-        background: #030c1c;
-      }
-      
-      .main {
-        display: block;
-        position: absolute;
-        top: 50%;
-        left: 30%;
-        -webkit-transform: translate(-50%, -50%);
-                transform: translate(-50%, -50%);
-        width: 50vw;
-        height: auto;
-        font-family: "neontubes";
-        font-size: 16vw;
-        text-align: center;
-        white-space: nowrap;
-      }
-      .main span {
-        display: block;
-        position: relative;
-        -webkit-transform: translateZ(0) translate3D(0, 0, 0);
-                transform: translateZ(0) translate3D(0, 0, 0);
-        -webkit-backface-visibility: hidden;
-                backface-visibility: hidden;
-        will-change: opacity;
-      }
-      .main .webdev {
-        color: #ffd9e2;
-        text-shadow: 0 0 0 transparent, 0 0 10px #ff003c, 0 0 20px rgba(255, 0, 60, 0.5), 0 0 40px #ff003c, 0 0 100px #ff003c, 0 0 200px #ff003c, 0 0 300px #ff003c, 0 0 500px #ff003c, 0 0 1000px #ff003c;
-        -webkit-animation: blink 4s infinite alternate;
-                animation: blink 4s infinite alternate;
-      }
-      .main .socod {
-        font-size: 11vw;
-        color: #d4eaff;
-        text-shadow: 0 0 0 transparent, 0 0 10px #2695ff, 0 0 20px rgba(38, 149, 255, 0.5), 0 0 40px #2695ff, 0 0 100px #2695ff, 0 0 200px #2695ff, 0 0 300px #2695ff, 0 0 500px #2695ff;
-        -webkit-animation: buzz 0.01s infinite alternate;
-                animation: buzz 0.01s infinite alternate;
-      }
-      
-      @-webkit-keyframes buzz {
-        70% {
-          opacity: 0.80;
-        }
-      }
-      
-      @keyframes buzz {
-        70% {
-          opacity: 0.80;
-        }
-      }
-      @-webkit-keyframes blink {
-        40% {
-          opacity: 1;
-        }
-        42% {
-          opacity: 0.8;
-        }
-        43% {
-          opacity: 1;
-        }
-        45% {
-          opacity: 0.2;
-        }
-        46% {
-          opacity: 1;
-        }
-      }
-      @keyframes blink {
-        40% {
-          opacity: 1;
-        }
-        42% {
-          opacity: 0.8;
-        }
-        43% {
-          opacity: 1;
-        }
-        45% {
-          opacity: 0.2;
-        }
-        46% {
-          opacity: 1;
-        }
-      }
-      @media screen and (min-width: 1000px) {
-        .main {
-          width: 400px;
-          font-size: 150px;
-        }
-      
-        .main .socod {
-          font-size: 103px;
-        }
-      }
+				// Ignore all of this, scroll down until you see the next comment.
+// I just like my eye candy. 
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100');
+
+
+html, body, h1 {
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#app {
+	background: rgb(10,10,10);
+	height: 100vh;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(rgba(10,10,10,.6),rgba(0,0,0,.9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px),
+		url('https://media.giphy.com/media/3oEduOOq2VZhvNfZ6w/source.gif');
+	background-size: cover;
+	background-position: center;
+	z-index: 1;
+}
+
+#wrapper {
+	 text-align: center;
+}
+
+.sub {
+	color: rgb(100,220,220);
+	letter-spacing: 1em;
+}
+
+// Here's the meat and potatoes.
+
+/* Our mixin positions a copy of our text
+directly on our existing text, while
+also setting content to the appropriate
+text set in the data-text attribute. */
+@mixin glitchCopy { 
+		content: attr(data-text);
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+}
+
+.glitch {
+	position: relative;
+	color: white;
+	font-size: 4em;
+	letter-spacing: .5em;
+	/* Animation provies a slight random skew. Check bottom of doc
+	for more information on how to random skew. */
+	animation: glitch-skew 1s infinite linear alternate-reverse;
+	
+	// Creates a copy before our text. 
+	&::before{
+		// Duplicates our text with the mixin.
+		@include glitchCopy;
+		// Scoots text slightly to the left for the color offset.
+		left: 2px;
+		// Creates the color 'shadow' that happens on the glitch.
+		text-shadow: -2px 0 #ff00c1;
+		/* Creates an initial clip for our glitch. This works in
+		a typical top,right,bottom,left fashion and creates a mask
+		to only show a certain part of the glitch at a time. */
+		clip: rect(44px, 450px, 56px, 0);
+		/* Runs our glitch-anim defined below to run in a 5s loop, infinitely,
+		with an alternating animation to keep things fresh. */
+		animation: glitch-anim 5s infinite linear alternate-reverse;
+	}
+	
+	// Creates a copy after our text. Note comments from ::before.
+	&::after {
+		@include glitchCopy;
+		left: -2px;
+		text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+		animation: glitch-anim2 1s infinite linear alternate-reverse;
+	}
+}
+
+/* Creates an animation with 20 steaps. For each step, it calculates 
+a percentage for the specific step. It then generates a random clip
+box to be used for the random glitch effect. Also adds a very subtle
+skew to change the 'thickness' of the glitch.*/
+@keyframes glitch-anim {
+  $steps: 20;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      clip: rect(random(100)+px, 9999px, random(100)+px, 0);
+			transform: skew((random(100) / 100) + deg);
+    }
+  }
+}
+
+// Same deal, just duplicated for ultra randomness.
+@keyframes glitch-anim2 {
+  $steps: 20;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      clip: rect(random(100)+px, 9999px, random(100)+px, 0);
+			transform: skew((random(100) / 100) + deg);
+    }
+  }
+}
+
+// Does the same deal as before, but now only skews. Used for main text.
+@keyframes glitch-skew {
+  $steps: 10;
+  @for $i from 0 through $steps {
+    #{percentage($i*(1/$steps))} {
+      transform: skew((random(10) - 5) + deg);
+    }
+  }
+}
 			</style>
-			<div style="
-    justify-content: center;
-    align-items: center; text-align:center;">
-				<div class="main">
-          <span class="webdev">Lucas Schiavini</span>
-          <span class="socod">Loves Neon Art</span>
-			  </div>
-      </div>
+			
+<div id="app">
+	<div id="wrapper">
+		<!-- Make sure data-text equals the text you put inside the tags. -->
+		<h1 class="glitch" data-text="
+Lucas Schiavini">Lucas Schiavini</h1>
+		<span class="sub">DEV</span>
+	</div>
+</div>
+
+
+
 		</div>
 	</foreignObject>
 </svg>
