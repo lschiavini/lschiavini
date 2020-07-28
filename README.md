@@ -59,6 +59,11 @@ Here are some ideas to get you started:
 
 
 Find me in other social media :)
+<br>
+<hr>
+<p style="width:100%;padding-bottom:100%;position:relative;">
+   <a><img src="https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif"/></a>
+   
 <p>
 <a href="https://www.linkedin.com/in/lucas-schiavini/">
   <img align="left" alt="Lucas Schiavini's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />
@@ -70,9 +75,6 @@ Find me in other social media :)
   <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 </a>
 </p>
-<br>
-<hr>
-<p style="width:100%;padding-bottom:100%;position:relative;">
-   <a><img src="https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif"/></a>
 </p>
+
 <!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
