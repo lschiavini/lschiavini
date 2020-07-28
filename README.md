@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lschiavini/lschiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="width:100%;padding-bottom:100%;position:relative;">
-   <a><img src="https://media.giphy.com/media/9J5bKYitolcHuER9rl/giphy.gif"/></a>
-</p>
 
-# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.
+<style>
+body {
+  background-color: black;
+  font-family: cursive;
+}
+
+.glow {
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+</style>
+<h1 class="glow">I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.</h1>
+<!--# :wave:  I am Lucas Schiavini and I'm in love with Synthwave and Neon style art.-->
 
 <a>
    <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
