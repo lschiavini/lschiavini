@@ -20,7 +20,7 @@
 
 ```javascript
 const Lucas = {
-    nickName: 'Skira',
+    nickName: "Skira",
     pronouns: "he" | "his",
     code: [C, Javascript, Typescript, HTML5, CSS3, Python, Java],
     platforms: [Altium, Esp32, Arduino, RaspberryPi3],
