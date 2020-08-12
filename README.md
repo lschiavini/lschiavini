@@ -7,13 +7,13 @@
 
 
 
-[![Linkedin: lucaschiavini](https://img.shields.io/badge/-lucasSchiavini-purple?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-schiavini)](https://www.linkedin.com/in/lucas-schiavini/)
+[![Linkedin: lucaschiavini](https://img.shields.io/badge/-lucasSchiavini-blueviolet?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-schiavini)](https://www.linkedin.com/in/lucas-schiavini/)
 [![Behance Lucas](https://img.shields.io/badge/-SchiaviniDesigns-black?style=flat-square&logo=Behance&logoColor=orange&link=https://www.behance.net/schiavinidesign)](https://www.behance.net/schiavinidesign)
 <br />
-[![Lucas Blog](https://img.shields.io/badge/-SkiraIndustries-grey?style=flat-square&logo=WordPress&logoColor=white&link=https://skiraindustries.com)](https://skiraindustries.com)
+[![Lucas Blog](https://img.shields.io/badge/-SkiraIndustries-orange?style=flat-square&logo=WordPress&logoColor=white&link=https://skiraindustries.com)](https://skiraindustries.com)
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas?label=follow&style=social)](https://github.com/lschiavini)
 <br />
-<img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" />
+![](https://komarev.com/ghpvc/?username=lschiavini&color=red)
 
 
 ### <img src="https://media.giphy.com/media/MFmYx2jAo1JfB6PTlp/giphy.gif" width="50"> A little more about me...  
