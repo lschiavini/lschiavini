@@ -33,7 +33,7 @@ const Lucas = {
         crewMember: "DROID",
         student: "RocketSeat",
     },
-    challenge: "Starting the React Stack bootcamp from RocketSeat!!!"
+    challenge: "Starting the React Stack bootcamp from RocketSeat!!!",
     talkToMeAbout: [
         ...yourinterests, maths, economics, algorithms, psychology, buddhism, technology, philosophy,
     ],
