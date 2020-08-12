@@ -1,79 +1,51 @@
-<!--
-**lschiavini/lschiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Lucas Schiavini! <img src="https://media.giphy.com/media/YrBidlMIUKks6gDBIx/giphy.gif" width="50"></h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <h1 style="color: #ff2cff">Lucas Schiavini</h1> -->
-
-<a href="https://github.com/lschiavini/lschiavini/blob/master/header.svg">
-  <img src="https://github.com/lschiavini/lschiavini/blob/master/header.svg?sanitize=true">
-</a>
-<!--<h2 style="color: #08ff4a">DEV</h2> -->
+<img align='right' src="https://media.giphy.com/media/yiehOhvKfUZdS/giphy.gif" width="230">
+<p><em>Control and Automation Engineering<br/> Student at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>Developer at <a href="http://coreconsulting.com.br/">Core Consulting</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
+</em></p>
 
 
-<a>
-   <img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" /> </p>
-</a>
-
-![](https://user-stats.vercel.app/api?username=lschiavini&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=FFFFFF&theme=dark)
-
-<p>
-   <a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/love-potion.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/js.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
-   <a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
-</p>
-<a>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-<i class="devicon-c-plain"></i>
-</a>
-
-* Front End Development: ReactJS, React-Native, HTML5, CSS3
-* Robotics Development: C++, Altium, Esp32, Arduino, RaspberryPi3
-* Design: Adobe Photoshop, Illustrator, InDesign, AdobeXD
-* Video Editing: Adobe Premiere, After Effects
-* Interested in Data Science
-* One and Off Blogger
-
-💬 Talk to me about maths,economics,algorithms, psychology, buddhism, technology, philosophy and anything in between !!! <br>
-😄😄 Show me Memes 😄😄<br>
-🌱 I’m currently learning ESP-IDF, AWS Technical Professional, Intro to Data Science<br>
-
-<br>
 
 
-<hr>
-Find me in other social media :)
+[![Linkedin: lucaschiavini](https://img.shields.io/badge/-lucasSchiavini-purple?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lucas-schiavini)](https://www.linkedin.com/in/lucas-schiavini/)
+[![Behance Lucas](https://img.shields.io/badge/-SchiaviniDesigns-black?style=flat-square&logo=Behance&logoColor=orange&link=https://www.behance.net/schiavinidesign)](https://www.behance.net/schiavinidesign)
+<br />
+[![Lucas Blog](https://img.shields.io/badge/-SkiraIndustries-grey?style=flat-square&logo=WordPress&logoColor=white&link=https://skiraindustries.com)](https://skiraindustries.com)
+[![GitHub Lucas](https://img.shields.io/github/followers/lucas?label=follow&style=social)](https://github.com/lschiavini)
+<br />
+<img src="https://komarev.com/ghpvc/?username=lschiavini" alt="counter" />
 
-<p>
-<a href="https://www.linkedin.com/in/lucas-schiavini/">
-  <img align="left" alt="Lucas Schiavini's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />
-</a>
-<a href="https://www.behance.net/schiavinidesign">
-  <img align="left" alt="Lucas Schiavini's Behance" width="22px" <img src="https://img.icons8.com/nolan/64/art-prices.png"/>
-</a>
-<a href="https://skiraindustries.com">
-  <img align="left" alt="Lucas Schiavini's Personal Blog" width="22px" src="https://img.icons8.com/nolan/64/wordpress.png"/>
-</a>
-</p>
 
-<br>
-<hr>
+### <img src="https://media.giphy.com/media/MFmYx2jAo1JfB6PTlp/giphy.gif" width="50"> A little more about me...  
 
-<p style="width:100%;padding-bottom:100%;position:relative;">
-   <a><img src="https://media.giphy.com/media/h45QjhBuAh08uZUSxH/source.gif"/></a>
-</p>
+```javascript
+const Lucas = {
+    nickName: 'Skira',
+    pronouns: "he" | "his",
+    code: [C, Javascript, Typescript, HTML5, CSS3, Python, Java],
+    platforms: [Altium, Esp32, Arduino, RaspberryPi3],
+    tools: [
+        ReactJS, React Native, Node, AWS,
+        Adobe Photoshop, Illustrator, InDesign, Figma
+    ],
+    architecture: ["microservices"],
+    techCommunities: {
+        crewMember: "DROID",
+        student: "RocketSeat",
+    },
+    challenge: "Starting the React Stack bootcamp from RocketSeat!!!"
+    talkToMeAbout: [
+        ...yourinterests, maths, economics, algorithms, psychology, buddhism, technology, philosophy,
+    ],
+}
+```
 
-<!--![](https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif)() -->
+
+
+
+<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I earn to learn more from different minded people</b> so if you want to say <b>hello let's talk about nothing and everything at the same time, </b>I'll be happy to meet you more! <b>:)</b></em></img>
+
+<img align='right' src="https://media.giphy.com/media/IvTFOQoPJTKU0/giphy.gif" width="200" />
+---
+
+🌱 From [@Lucas](https://github.com/lschiavini)
