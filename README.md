@@ -42,7 +42,7 @@ const Lucas = {
 
 
 
-<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I earn to learn more from different minded people</b> so if you want to say <b>"hello let's talk about nothing and everything at the same time", </b>I'll be happy to meet you more! <b>:)</b></em></img>
+<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b> so if you want to say <b>"hello let's talk about nothing and everything at the same time", </b>I'll be happy to meet you more! <b>:)</b></em></img>
 
 Email: skiraconn@hotmail.com
 
