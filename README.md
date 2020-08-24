@@ -1,5 +1,5 @@
-<h2> Hi, I'm Lucas Schiavini! <img src="https://media.giphy.com/media/YrBidlMIUKks6gDBIx/giphy.gif" width="50"></h2>
-<img align='left' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="230" height="230">
+<h2> Hi, I'm Lucas Schiavini! <img src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="50"></h2>
+<!-- <img align='left' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="230" height="230"> -->
 <p><em>Mechatronics Engineering Student at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>Developer at <a href="http://coreconsulting.com.br/">Core Consulting</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
 </em></p>
 
