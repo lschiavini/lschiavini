@@ -9,6 +9,9 @@
 ![Github Views](https://komarev.com/ghpvc/?username=lschiavini&color=red)
 
 
+[![Gmail Badge](https://img.shields.io/badge/-skiraconn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skiraconn@gmail.com)](mailto:skiraconn@gmail.com)
+
+
 ### <img src="https://media.giphy.com/media/MFmYx2jAo1JfB6PTlp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -35,7 +38,6 @@ const Lucas = {
 
 <img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b> so if you want to say <b>"hello let's talk about nothing and everything at the same time", </b>I'll be happy to meet you more! <b>:)</b></em></img>
 
-Email: skiraconn@gmail.com
 
 <img align='right' src="https://media.giphy.com/media/IvTFOQoPJTKU0/giphy.gif" width="200" />
 ---
