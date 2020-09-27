@@ -15,11 +15,11 @@
 const Lucas = {
     nickName: "Skira",
     pronouns: "he" | "his",
-    code: [C, C++, Javascript, Typescript, HTML5, CSS3, Python, Java],
-    platforms: [Altium, Esp32, Arduino, RaspberryPi3],
+    code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java"],
+    platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3"],
     tools: [
-        ReactJS, React Native, Node, AWS,
-        Photoshop, Illustrator, InDesign, Figma
+        "ReactJS", "React Native", "Node", "AWS",
+        "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
     architecture: ["microservices"],
     techCommunities: {
@@ -28,7 +28,7 @@ const Lucas = {
     },
     challenge: "Starting the React Stack bootcamp from RocketSeat!!!",
     talkToMeAbout: [
-        ...yourinterests, maths, economics, algorithms, psychology, buddhism, technology, philosophy,
+        ...yourinterests, "maths", "economics", "algorithms", "psychology", "buddhism", "technology", "philosophy",
     ],
 }
 ```
