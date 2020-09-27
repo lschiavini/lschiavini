@@ -19,7 +19,7 @@ const Lucas = {
     platforms: [Altium, Esp32, Arduino, RaspberryPi3],
     tools: [
         ReactJS, React Native, Node, AWS,
-        Adobe Photoshop, Illustrator, InDesign, Figma
+        Photoshop, Illustrator, InDesign, Figma
     ],
     architecture: ["microservices"],
     techCommunities: {
