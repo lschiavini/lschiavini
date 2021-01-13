@@ -21,7 +21,7 @@ const Lucas = {
     code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java"],
     platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3"],
     tools: [
-        "ReactJS", "React Native", "Node", "AWS",
+        "ReactJS", "React Native", "Node", "AWS", "Firebase",
         "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
     architecture: ["microservices"],
