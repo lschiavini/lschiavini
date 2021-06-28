@@ -24,7 +24,7 @@ const Lucas = {
         "ReactJS", "React Native", "Node", "AWS", "Firebase",
         "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
-    architecture: ["microservices"],
+    architecture: ["microservices", "MVVM"],
     techCommunities: {
         advisor: "DROID",
         student: "RocketSeat",
