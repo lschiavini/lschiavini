@@ -18,18 +18,17 @@
 const Lucas = {
     nickName: "Skira",
     pronouns: "he" | "his",
-    code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java"],
-    platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3"],
+    code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java", "Kotlin"],
+    platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3", "Android Studio"],
     tools: [
         "ReactJS", "React Native", "Node", "AWS", "Firebase",
         "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
     architecture: ["microservices"],
     techCommunities: {
-        crewMember: "DROID",
+        advisor: "DROID",
         student: "RocketSeat",
     },
-    challenge: "Starting the React Stack bootcamp from RocketSeat!!!",
     talkToMeAbout: [
         ...yourinterests, "maths", "economics", "algorithms", "psychology", "buddhism", "technology", "philosophy",
     ],
