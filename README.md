@@ -36,7 +36,7 @@ const Lucas = {
 }
 ```
 
-<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b> so if you want get in touch, I'll be happy to meet you ! <b>:)</b></em></img>
+<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b>. If you want get in touch, I'll be happy to meet you ! <b>:)</b></em></img>
 
 
 <img align='right' src="https://media.giphy.com/media/IvTFOQoPJTKU0/giphy.gif" width="200" />
