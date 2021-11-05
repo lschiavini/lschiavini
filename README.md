@@ -21,7 +21,7 @@ const Lucas = {
     code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java", "Kotlin"],
     platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3", "Android Studio"],
     tools: [
-        "ReactJS", "React Native", "Node", "AWS", "Firebase",
+        "Android Studio", "ReactJS", "React Native", "Node", "AWS", "Firebase",
         "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
     architecture: ["microservices", "MVVM"],
@@ -30,12 +30,13 @@ const Lucas = {
         student: "RocketSeat",
     },
     talkToMeAbout: [
-        ...yourinterests, "maths", "economics", "algorithms", "psychology", "buddhism", "technology", "philosophy",
+        ...yourinterests, "maths", "economics", "algorithms", 
+        "psychology", "buddhism", "technology", "philosophy",
     ],
 }
 ```
 
-<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b> so if you want to say <b>"hello let's talk about nothing and everything at the same time", </b>I'll be happy to meet you more! <b>:)</b></em></img>
+<img src="https://media.giphy.com/media/XcwJZc7pbopZIIEtDV/giphy.gif" width="60"> <em><b>I yearn to learn more from different minded people</b> so if you want get in touch, I'll be happy to meet you ! <b>:)</b></em></img>
 
 
 <img align='right' src="https://media.giphy.com/media/IvTFOQoPJTKU0/giphy.gif" width="200" />
