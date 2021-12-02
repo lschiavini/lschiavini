@@ -18,13 +18,19 @@
 const Lucas = {
     nickName: "Skira",
     pronouns: "he" | "his",
-    code: ["C", "C++", "Javascript", "Typescript", "HTML5", "CSS3", "Python", "Java", "Kotlin"],
-    platforms: ["Altium", "Esp32", "Arduino", "RaspberryPi3", "Android Studio"],
+    code: [
+            "C", "C++", "Javascript", "Typescript", 
+            "Python", "Java", "Kotlin", "Dart"
+           ],
+    platforms: [
+                "Altium", "Esp32", "Arduino", 
+                "RaspberryPi3", "Android", "iOS", "macOS"
+               ],
     tools: [
-        "Android Studio", "ReactJS", "React Native", "Node", "AWS", "Firebase",
+        "Android Studio", "XCode" ,"ReactJS", "React Native", "Node", "AWS", "Firebase",
         "Photoshop", "Illustrator", "InDesign", "Figma"
     ],
-    architecture: ["microservices", "MVVM"],
+    architecture: ["microservices", "MVVM", "KMM"],
     techCommunities: {
         advisor: "DROID",
         student: "RocketSeat",
