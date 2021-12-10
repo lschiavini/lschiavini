@@ -16,8 +16,7 @@
 
 ```javascript
 const Lucas = {
-    nickName: "Skira",
-    pronouns: "he" | "his",
+    nickName: "Luskira",
     code: [
             "C", "C++", "Javascript", "Typescript", 
             "Python", "Java", "Kotlin", "Dart"
