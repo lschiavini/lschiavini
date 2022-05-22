@@ -9,9 +9,6 @@
 ![Github Views](https://komarev.com/ghpvc/?username=lschiavini&color=red)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-skiraconn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skiraconn@gmail.com)](mailto:skiraconn@gmail.com)
-
-
 ### <img src="https://media.giphy.com/media/MFmYx2jAo1JfB6PTlp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
