@@ -3,7 +3,7 @@
 <p><em>Control and Automation Engineer at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>Developer at <a href="https://www.nelogica.com.br/">Nelogica</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
 </em></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@LucasSchiavini?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/lucasschiavini)](https://twitter.com/lucasschiavini) 
+[![Twitter Badge](https://img.shields.io/badge/-@LucasSchiavini-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/lucasschiavini)](https://twitter.com/lucasschiavini) 
 [![Linkedin: lucaschiavini](https://img.shields.io/badge/-lucasSchiavini-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-schiavini)](https://www.linkedin.com/in/lucas-schiavini/)
 
 
