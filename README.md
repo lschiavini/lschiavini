@@ -1,6 +1,8 @@
 <h2> Hi, I'm Lucas Schiavini! <img src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="50"></h2>
 <!-- <img align='left' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="230" height="230"> -->
-<p><em>Control and Automation Engineer at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>Developer at <a href="https://www.nelogica.com.br/">Nelogica</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
+<p><em>Control and Automation Engineer at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>
+
+Developer at <a href="https://praxent.com/">Praxent</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
 </em></p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@LucasSchiavini-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/lucasschiavini)](https://twitter.com/lucasschiavini) 
