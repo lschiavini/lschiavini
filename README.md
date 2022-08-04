@@ -23,17 +23,20 @@ const Lucas = {
     nickName: "Luskira",
     code: [
             "C", "C++", "Javascript", "Typescript", 
-            "Python", "Java", "Kotlin", "Dart"
+            "Python", "Java", "Kotlin", "Dart", 
+            "ReactJS", "React Native", "Node"
            ],
     platforms: [
-                "Altium", "Esp32", "Arduino", 
-                "RaspberryPi3", "Android", "iOS", "macOS"
+                 "Flutter", "Android", "iOS", "macOS",
+                 "Esp32", "RaspberryPi3", "Arduino"
                ],
     tools: [
-        "Android Studio", "XCode" ,"ReactJS", "React Native", "Node", "AWS", "Firebase",
-        "Photoshop", "Illustrator", "InDesign", "Figma"
+        "Android Studio", "XCode",
+        "AWS", "Firebase",
+        "Photoshop", "Illustrator", "InDesign", "Figma",
+        "Altium", 
     ],
-    architecture: ["microservices", "MVVM", "KMM"],
+    architecture: ["microservices", "MVVM", "KMM", "MVI"],
     techCommunities: {
         advisor: "DROID",
         student: "RocketSeat",
