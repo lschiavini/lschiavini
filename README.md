@@ -5,12 +5,7 @@
 Developer at <a href="https://praxent.com/">Praxent</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
 </em></p>
 
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=About.me&logoColor=white&link=https://lucas-schiavini.com)](https://lucas-schiavini.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-@LucasSchiavini-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/lucasschiavini)](https://twitter.com/lucasschiavini) 
-[![Linkedin: lucaschiavini](https://img.shields.io/badge/-lucasSchiavini-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-schiavini)](https://www.linkedin.com/in/lucas-schiavini/)
-
-[![Behance Lucas](https://img.shields.io/badge/-SchiaviniDesigns-black?style=flat-square&logo=Behance&logoColor=orange&link=https://www.behance.net/schiavinidesign)](https://www.behance.net/schiavinidesign)
+Check out [My Website](https://lucas-schiavini.com)
 
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas?label=follow&style=social)](https://github.com/lschiavini)
 ![Github Views](https://komarev.com/ghpvc/?username=lschiavini&color=red)
