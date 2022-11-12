@@ -21,8 +21,8 @@ const Lucas = {
         "ReactJS", "React Native", "Node"
     ],
     platforms: [
-         "Flutter", "Android", "iOS", "macOS",
-         "Esp32", "RaspberryPi3", "Arduino"
+        "Flutter", "Android", "iOS", "macOS",
+        "Esp32", "RaspberryPi3", "Arduino"
     ],
     tools: [
         "Android Studio", "XCode",
