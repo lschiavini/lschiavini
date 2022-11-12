@@ -16,14 +16,14 @@ Check out [My Website](https://lucas-schiavini.com)
 const Lucas = {
     nickName: "Luskira",
     code: [
-            "C", "C++", "Javascript", "Typescript", 
-            "Python", "Java", "Kotlin", "Dart", 
-            "ReactJS", "React Native", "Node"
-           ],
+        "C", "C++", "Javascript", "Typescript", 
+        "Python", "Java", "Kotlin", "Dart", 
+        "ReactJS", "React Native", "Node"
+    ],
     platforms: [
-                 "Flutter", "Android", "iOS", "macOS",
-                 "Esp32", "RaspberryPi3", "Arduino"
-               ],
+         "Flutter", "Android", "iOS", "macOS",
+         "Esp32", "RaspberryPi3", "Arduino"
+    ],
     tools: [
         "Android Studio", "XCode",
         "AWS", "Firebase",
