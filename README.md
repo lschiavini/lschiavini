@@ -18,7 +18,8 @@ const Lucas = {
     code: [
         "C", "C++", "Javascript", "Typescript", 
         "Python", "Java", "Kotlin", "Dart", 
-        "ReactJS", "React Native", "Node"
+        "ReactJS", "React Native", "Node",
+        "Lua"
     ],
     platforms: [
         "Flutter", "Android", "iOS", "macOS",
