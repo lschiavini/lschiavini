@@ -1,7 +1,7 @@
 <h2> Hi, I'm Lucas Schiavini! <img src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="50"></h2>
 <!-- <img align='left' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="230" height="230"> -->
-<p><em>Control and Automation Engineer at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>
-Developer at <a href="https://praxent.com/">Praxent</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
+<p><em>Control and Automation Engineer @<a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"></br>
+Developer @<a href="https://praxent.com/">Praxent</a><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="40"> 
 </em></p>
 
 Check out [My Website](https://lucas-schiavini.com)
@@ -14,24 +14,30 @@ Check out [My Website](https://lucas-schiavini.com)
 
 ```javascript
 const Lucas = {
-    nickName: "Luskira",
+    nickName: "luskira",
     code: [
         "C", "C++", "Javascript", "Typescript", 
         "Python", "Java", "Kotlin", "Dart", 
-        "ReactJS", "React Native", "Node",
-        "Lua"
+        "Node", "Lua"
     ],
     platforms: [
-        "Flutter", "Android", "iOS", "macOS",
+        "Flutter", "ReactJS", "React Native",
+        "Android", "iOS", "macOS",
         "Esp32", "RaspberryPi3", "Arduino"
     ],
     tools: [
         "Android Studio", "XCode",
         "AWS", "Firebase",
-        "Photoshop", "Illustrator", "InDesign", "Figma",
+        "Photoshop", "Illustrator", 
+        "InDesign", "Figma",
         "Altium", 
     ],
-    architecture: ["microservices", "MVVM", "KMM", "MVI"],
+    architecture: [
+        "microservices", 
+        "MVVM", 
+        "KMM", 
+        "MVI"
+    ],
     techCommunities: {
         advisor: "DROID",
         student: "RocketSeat",
