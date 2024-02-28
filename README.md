@@ -21,12 +21,12 @@ const Lucas = {
         "Node", "Lua"
     ],
     platforms: [
-        "Flutter", "ReactJS", "React Native",
+        "NextJS", "Flutter", "ReactJS", "React Native",
         "Android", "iOS", "macOS",
         "Esp32", "RaspberryPi3", "Arduino"
     ],
     tools: [
-        "Android Studio", "XCode",
+        "Android Studio", "XCode", "Vim"
         "AWS", "Firebase",
         "Photoshop", "Illustrator", 
         "InDesign", "Figma",
@@ -40,7 +40,6 @@ const Lucas = {
     ],
     techCommunities: {
         advisor: "DROID",
-        student: "RocketSeat",
     },
     talkToMeAbout: [
         ...yourinterests, "maths", "economics", "algorithms", 
