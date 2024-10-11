@@ -12,7 +12,7 @@ Check out [My Website](https://lucas-schiavini.com)
 - [everything you need to know](https://lucas-schiavini.com/aboutme) 
 
 
-### skills  
+### me but in json  
 
 ```javascript
 const Lucas = {
