@@ -20,32 +20,31 @@ const Lucas = {
     code: [
         "C", "C++", "Javascript", "Typescript", 
         "Python", "Java", "Kotlin", "Dart", 
-        "Node", "Lua"
+        "Node", "Lua", "NextJS", "Flutter",
+        "ReactJS", "React Native",
     ],
     platforms: [
-        "NextJS", "Flutter", "ReactJS", "React Native",
         "Android", "iOS", "macOS",
         "Esp32", "RaspberryPi3", "Arduino"
     ],
     tools: [
-        "Android Studio", "XCode", "Vim"
+        "Android Studio", "XCode", "nvim"
         "AWS", "Firebase",
-        "Photoshop", "Illustrator", 
-        "InDesign", "Figma",
+        "Photoshop", "Illustrator",  
+        "InDesign", "Figma", "After Effects",
         "Altium", 
     ],
-    architecture: [
+    architectures: [
         "microservices", 
         "MVVM", 
         "KMM", 
         "MVI"
     ],
-    techCommunities: {
-        advisor: "DROID",
-    },
     talkToMeAbout: [
-        ...yourinterests, "maths", "economics", "algorithms", 
-        "psychology", "buddhism", "technology", "philosophy",
+        ...yourinterests, "maths",
+        "economics", "algorithms", 
+        "psychology", "meditation",
+        "technology", "philosophy",
     ],
 }
 ```
