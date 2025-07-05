@@ -41,7 +41,8 @@ const Lucas = {
         "MVI"
     ],
     talkToMeAbout: [
-        ...yourinterests, "maths",
+        ...yourinterests,
+         "it's always sunny in philadelphia", "maths",
         "economics", "algorithms", 
         "psychology", "meditation",
         "technology", "philosophy",
