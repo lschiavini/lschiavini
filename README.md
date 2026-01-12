@@ -1,7 +1,7 @@
 <h2> Hi, I'm Lucas Schiavini </h2>
 <p><em>Control and Automation Engineer @ <a href="http://www.unb.br">University of Brasilia</a>
 </br>
-Developer @ <a href="https://showseeker.com/">ShowSeeker</a></p>
+Founder @ <a href="https://vivictus/">Vivictus</a></p>
 
 Check out [My Website](https://lucas-schiavini.com)
 
