@@ -1,55 +1,15 @@
-<h2> Hi, I'm Lucas Schiavini </h2>
-<p><em>Control and Automation Engineer @ <a href="http://www.unb.br">University of Brasilia</a>
-</br>
-Founder @ <a href="https://vivictus.com/">Vivictus</a></p>
+## Hi, I'm Lucas
 
-Check out [My Website](https://lucas-schiavini.com)
+Forward-deployed engineer. I work inside client teams, find out what they need, and ship it to production.
 
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas?label=follow&style=social)](https://github.com/lschiavini)
 ![Github Views](https://komarev.com/ghpvc/?username=lschiavini&color=red)
 
-### about me
-- [everything you need to know](https://lucas-schiavini.com/aboutme) 
+- **Now:** embedded with [ShowSeeker](https://showseeker.com) through my consultancy [Vivictus](https://vivictus.com), on an ad-sales platform for US cable operators.
+- **Before:** LLM agents for a multi-agent game environment at [Softmax](https://softmax.com). Talk: [LLMs Playing Games: Building AI Agents That Learn by Playing](https://www.youtube.com/watch?v=5bKZ7blbC98) (TDC 2026).
+- **Running solo in production:** [Analog Reader](https://analogreader.com), [TaskNap](https://tasknap.com), self-hosted analytics for 14 sites, and the Linux server they all live on.
+- **Writing:** a comic fantasy novel, [The Worst Party in the Realm](https://worstparty.com).
 
+**Stack:** TypeScript, Python, React, Next.js, PostgreSQL, LLM APIs (Anthropic, OpenAI), Linux, Docker, Cloudflare Workers.
 
-### me but in json  
-
-```javascript
-const Lucas = {
-    nickName: "luskira",
-    code: [
-        "C", "C++", "Javascript", "Typescript", 
-        "Python", "Java", "Kotlin", "Dart", 
-        "Node", "Lua", "NextJS", "Flutter",
-        "ReactJS", "React Native",
-    ],
-    platforms: [
-        "Android", "iOS", "macOS",
-        "Esp32", "RaspberryPi3", "Arduino"
-    ],
-    tools: [
-        "Android Studio", "XCode", "nvim"
-        "AWS", "Firebase",
-        "Photoshop", "Illustrator",  
-        "InDesign", "Figma", "After Effects",
-        "Altium", 
-    ],
-    architectures: [
-        "microservices", 
-        "MVVM", 
-        "KMM", 
-        "MVI"
-    ],
-    talkToMeAbout: [
-        ...yourinterests,
-         "it's always sunny in philadelphia", "maths",
-        "economics", "algorithms", 
-        "psychology", "meditation",
-        "technology", "philosophy",
-    ],
-}
-```
-
----
-
-From [@Lucas](https://github.com/lschiavini)
+[CV](https://lucas-schiavini.com/cv) · [Blog](https://lucas-schiavini.com) · [LinkedIn](https://linkedin.com/in/lucas-schiavini) · [X](https://x.com/LucasSchiavini)
